@@ -1,0 +1,47 @@
+{
+ "targets": {
+  "model.safetensors": {
+   "sha256": "891102d372688fc2a094dac56a384bc537b87c63f21f9f3dac0be2b7cbc8d86c",
+   "bytes": 842609210,
+   "parts": [
+    "laya-mirror/model.safetensors.part-00",
+    "laya-mirror/model.safetensors.part-01",
+    "laya-mirror/model.safetensors.part-02",
+    "laya-mirror/model.safetensors.part-03",
+    "laya-mirror/model.safetensors.part-04",
+    "laya-mirror/model.safetensors.part-05",
+    "laya-mirror/model.safetensors.part-06",
+    "laya-mirror/model.safetensors.part-07",
+    "laya-mirror/model.safetensors.part-08"
+   ]
+  },
+  "typed-decisions/model.safetensors": {
+   "sha256": "4fa56de72383a9d3efa9cfa78955733c81b9fc8067a587ca4beb82c78107a24e",
+   "bytes": 842609220,
+   "parts": [
+    "laya-mirror/typed-decisions/model.safetensors.part-00",
+    "laya-mirror/typed-decisions/model.safetensors.part-01",
+    "laya-mirror/typed-decisions/model.safetensors.part-02",
+    "laya-mirror/typed-decisions/model.safetensors.part-03",
+    "laya-mirror/typed-decisions/model.safetensors.part-04",
+    "laya-mirror/typed-decisions/model.safetensors.part-05",
+    "laya-mirror/typed-decisions/model.safetensors.part-06",
+    "laya-mirror/typed-decisions/model.safetensors.part-07",
+    "laya-mirror/typed-decisions/model.safetensors.part-08"
+   ]
+  },
+  "multilingual/model.safetensors": {
+   "sha256": "9d628fd971b700382ac6f65920a86f149777b2e748e0c955fb3b19695aa8f204",
+   "bytes": 643835514,
+   "parts": [
+    "laya-mirror/multilingual/model.safetensors.part-00",
+    "laya-mirror/multilingual/model.safetensors.part-01",
+    "laya-mirror/multilingual/model.safetensors.part-02",
+    "laya-mirror/multilingual/model.safetensors.part-03",
+    "laya-mirror/multilingual/model.safetensors.part-04",
+    "laya-mirror/multilingual/model.safetensors.part-05",
+    "laya-mirror/multilingual/model.safetensors.part-06"
+   ]
+  }
+ }
+}
